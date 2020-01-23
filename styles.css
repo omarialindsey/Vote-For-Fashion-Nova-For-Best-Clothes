@@ -1,0 +1,38 @@
+body {
+    background-color: pink;
+}
+
+img {
+    height: 200px;
+}
+
+h1 {
+    font-family: 'Damion', cursive;
+}
+
+img {
+    margin: 0px;
+    padding: 0px;
+    border: gold solid 1px;
+
+}
+
+w3-button w3-black {}
+
+.fashion {
+    background-image: url(https://cdn.shopify.com/s/files/1/0169/1980/products/iPhoto-182_1024x1024.jpg?v=1415150720);
+    color: pink;
+    font-weight: bold;
+
+}
+
+h3 {
+    color: white;
+    font-weight: bold;
+}
+.Nova {
+    background-image:url(https://images.kitkraft.com/spree/images/25751/very-fine-opalescent-mix-glitter-large-301373_20MIX---IMG_0012-1298%282%29.jpg?1485567149);
+    font-weight:bold;
+    color:purple;
+}
+    
